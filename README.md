@@ -44,13 +44,15 @@ an esoteric, explicit, efficient engine
 - shader processing
 - basic rendering
 ### *(complete)* v0.3
-- keyboard/mouse input
+- keyboard input
 - default structures, shaders, objects
 - event system
 ### *(in progress)* v0.4
 - reconstruction via feedback
+- mouse input/position
 - multi-threading support
-- auto buffer resizing/deleting
+- buffer resizing/deleting
+- shader_input updating
 - examples construction
 	- hept_tri
 	- hept_pong
